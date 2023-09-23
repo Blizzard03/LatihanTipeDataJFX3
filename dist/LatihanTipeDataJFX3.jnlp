@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="LatihanTipeDataJFX3.jnlp">
+  <information>
+    <title>LatihanTipeDataJFX3</title>
+    <vendor>Muhamad Ariq Rasyid</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="LatihanTipeDataJFX3.jar" size="5630" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="latihantipedatajfx3.Main_Class.LatihanTipeDataJFX3"  name="LatihanTipeDataJFX3" />
+  <update check="always"/>
+</jnlp>
